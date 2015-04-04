@@ -5,6 +5,8 @@ import operator
 import os
 import functools
 
+import pandas as pd
+
 from bs4 import BeautifulSoup
 from multiprocessing.dummy import Pool as ThreadPool
 
